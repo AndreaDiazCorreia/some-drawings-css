@@ -6,8 +6,5 @@ Just a repo to share my drawings with HTML and CSS
 
 
 
-[TOC]
-
-
-##Zombie
+## Zombie
 [![zombie](https://i.imgur.com/oVtPc5r.png "zombie")](https://i.imgur.com/oVtPc5r.png "zombie")
